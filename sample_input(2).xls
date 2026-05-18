@@ -1,0 +1,6 @@
+AGE_NUM,time_in_hospital,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,number_diagnoses,TOTAL_VISITS,SEVERITY_INDEX,CHRONIC_FLAG,MEDICATION_INTENSITY,EMERGENCY_ADMISSION,DISCHARGE_RISK
+85.0,4,40,0,17,0,0,1,9,1,53,1,17,1,0
+65.0,5,29,3,22,0,0,0,7,0,44,1,22,1,0
+75.0,2,26,2,29,2,0,1,5,3,35,0,29,0,0
+55.0,5,43,3,34,0,0,1,9,1,60,1,34,0,0
+75.0,12,77,6,38,0,0,0,9,0,104,1,38,0,0
