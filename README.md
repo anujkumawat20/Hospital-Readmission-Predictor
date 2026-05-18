@@ -78,9 +78,9 @@ streamlit run app.py
 
 | Metric | Score |
 |---|---|
-| Accuracy | ~XX% |
-| ROC-AUC | ~XX |
-| Precision | ~XX% |
+| Accuracy | ~71-74% |
+| ROC-AUC | 0.72 |
+| Precision | ~34-40% |
 
 > Update these values after training your model.
 
@@ -97,7 +97,7 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
+👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+**Anuj Kumawat**  
+[GitHub](https://github.com/anujkumawat20) • [LinkedIn](https://linkedin.com/in/anuj-kumawat-48351a293)
