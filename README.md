@@ -42,7 +42,7 @@ projectml/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/hospital-readmission-predictor.git
+git clone https://github.com/anujkumawat20/Hospital-Readmission-Predictor.git
 cd hospital-readmission-predictor
 ```
 
@@ -82,7 +82,6 @@ streamlit run app.py
 | ROC-AUC | 0.72 |
 | Precision | ~34-40% |
 
-> Update these values after training your model.
 
 ---
 
